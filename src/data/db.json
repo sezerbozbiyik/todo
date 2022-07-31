@@ -1,0 +1,24 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "title": "ekmek al"
+        },
+        {
+            "id": 2,
+            "title": "su al"
+        },
+        {
+            "id": 3,
+            "title": "çiçek al"
+        },
+        {
+            "id": 4,
+            "title": "diş ipi al"
+        },
+        {
+            "id": 5,
+            "title": "muz al"
+        }
+    ]
+}
